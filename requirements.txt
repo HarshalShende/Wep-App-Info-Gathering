@@ -1,0 +1,14 @@
+pip3 install pyfiglet
+pip3 install os
+pip3 install sys
+pip3 install json
+pip3 install requests
+pip3 install colorama
+pip3 install termcolor
+pip install python-whois
+pip install webtech
+apt-get install dirb
+apt-get install wafw00f
+apt-get install lbd
+apt-get install nmap
+apt-get install nikto
