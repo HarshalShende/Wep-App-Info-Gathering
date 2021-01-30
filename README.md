@@ -29,7 +29,7 @@
 
 ## VIRUSTOTAL
 
-<img src="https://github.com/fatihh92/Wep-App-Info-Gathering/blob/master/img/4.PNG">
+<img src="https://github.com/fatihh92/Wep-App-Info-Gathering/blob/master/img/4.1.PNG">
 
 ## SITEMAP.XML / ROBOTS.TXT / CROSSDOMAIN.XML
 
